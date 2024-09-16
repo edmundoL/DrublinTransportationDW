@@ -495,3 +495,5 @@ The consume of the Query is on the next images.
 ![](<Captura de pantalla 2024-09-15 212656.png>)
 
 ![](image.png)
+
+Finally here link to could connect and see the workflow [https://app.snowflake.com/ypxqcvp/pp44707/w57u43MFYaPV#query](https://app.snowflake.com/ypxqcvp/pp44707/w57u43MFYaPV#query)
